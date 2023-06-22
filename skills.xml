@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<note>
+   <base theory>SDLC_STLC</base theory>
+   <sniffing>Charles_Fiddler</sniffing>
+   <Linux>Terminal</Linux>
+   <SQL Basics>Create_Delete_Select</SQL Basics>
+</note>
