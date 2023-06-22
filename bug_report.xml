@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="windows-1251"?>
+	<bug_report>
+   		<ID>br-00155</ID>
+   		<Summary>Charles_Fiddler</Summary>
+   		<Steps_to_reproduce>1-2-3-4</Steps_to_reproduce>
+      <Actual_result>The words on the page are not translated</Actual_result>
+      <Expected_Result>The words on the page are translated</Expected_Result>
+      <Severity>Minor</Severity>
+      <Priority>low</Priority>
+      <Attachments>URL to attachments</Attachments>
+      <Additional_Information>Terminal</Additional_Information>
+	</bug_report>
